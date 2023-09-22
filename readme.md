@@ -22,7 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <hr>
 
 ### Acesse o site e veja funcionar 😎
-https://gabriell0610.github.io/ListaDeProdutos/
+<a href="https://gabriell0610.github.io/ListaDeProdutos/" target="_blank">Acesse o projeto</a>
+<hr>
 
 
 
