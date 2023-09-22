@@ -19,8 +19,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <p>Design simples, o foco foi totalmente para o javascript!!!<p>
 
 ![Alt text](<tela do site.png>)
+<hr>
 
-
+### Acesse o site e veja funcionar 😎
+https://gabriell0610.github.io/ListaDeProdutos/
 
 
 
